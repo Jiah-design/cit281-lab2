@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Purpose
 
-You can use the [editor on GitHub](https://github.com/Jiah-design/cit281-lab2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- Learn to use CLI commands for directory and file manipulation
+- Use git commands to Initial JavaScript file, Add file to git, and Ignoring files
+- Practice cloning cloud repos locally
+- Use diff command to see changes and wildcards to add and commit files
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hangman-Game created through cloning GitHub repo
+![Screenshot](hangman.png)
+[Files to the Hangman-Game](https://github.com/Jiah-design/cit281-lab2/tree/main/Hangman-Game)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jiah-design/cit281-lab2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
